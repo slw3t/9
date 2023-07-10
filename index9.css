@@ -1,0 +1,47 @@
+/* Стилі для полів вводу при фокусуванні */
+.form-text:focus {
+    outline: none;
+    border: 5px solid red;
+
+  }
+  
+  .list-item:nth-child(1) {
+    background-color: blue;
+  }
+  
+  .list-item:nth-child(2) {
+    background-color: purple;
+  }
+  
+  .list-item:nth-child(3) {
+    background-color: gray;
+  }
+  
+  .list-item:nth-child(4) {
+    background-color: purple;
+  }
+  
+  .list-item:nth-child(5) {
+    background-color: gray;
+  }
+  
+  .list-item:nth-child(6) {
+    background-color: purple;
+  }
+  
+  .list-item:nth-child(7) {
+    background-color: gray;
+  }
+  
+  .list-item:nth-child(8) {
+    background-color: purple;
+  }
+  
+  .list-item:nth-child(9) {
+    background-color: gray;
+  }
+  
+  .list-item:nth-child(10) {
+    background-color: green;
+  }
+  
